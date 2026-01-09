@@ -18,7 +18,7 @@ It demonstrates basic user and order management with business rule enforcement.
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repository-url>
+git clone <(https://github.com/Rhezaaa/user-order-api.git)>
 cd user-order-api
 
 2. Install Dependencies
